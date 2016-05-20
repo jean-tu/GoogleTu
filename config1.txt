@@ -1,0 +1,14 @@
+# comments 
+
+# INDEX_FILE: The path to the file that is used to "seed" the search.
+INDEX_FILE = data/index.txt
+
+# STEP_NUMBER = the number of steps to walk through = t 
+STEP_NUMBER = 30#34
+ 
+# RESTART_PROBABILITY = Epsilon probibilit of restarting  = e 
+RESTART_PROBABILITY = .15#00009
+
+#OUTPUT_FILE: The path to the file that you should overwrite with a list of all pages reachable from the seeds.
+OUTPUT_FILE = data/indexP.txt#someword
+INDEX_FILE = data/index1.txt
