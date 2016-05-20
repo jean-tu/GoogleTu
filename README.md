@@ -1,5 +1,4 @@
-#Jean Tu 
-##Homework 6: Project Part 3 
+#Googletu
 
 To compile the crawler: 
 	You are going to need the .o files to compile the crawler.
@@ -23,4 +22,16 @@ If the user does not provide a "config.txt" file when they are trying to run the
 To run the program with your config files type and it will take in the output file from the given config_file as the new index file for the ./hw6 program: 
 	./hw6 <config_file.txt>
 
-From what I understood from the assignment was that the crawler was supposed to be able to run on it's own and it is a stand alone. But from I also understood was that the homework6 file executable also takes in a config_file or else how would we be able to get the epsilon and the timestep value 
+#What is GoogleTu
+Created a simple search engine that implemented the PageRank Algorithm that is what Google was first known for. This program utilized:
+* C++
+* PageRank Algorithm
+* Qt
+* Merge Sort
+* Templates
+
+##Why
+This was an assignment for one of my CS classes and I had thought that it was definetly one of the ones that was more challenging. This assignment required us to utilize the PageRank Algorithm and other algorithms such as merge sort.
+
+##Name?
+The reason why I named this assignment GoogleTu is because we had to use the ranking algorithm that made Google known, I decided to create a "second" version I guess you can say. My last name is said like the number "Two" so I was trying to be creative by naming it Google Two. I had used Adobe Photoshop to add on the additional tu letters.
